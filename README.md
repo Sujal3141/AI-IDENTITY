@@ -222,7 +222,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Sujal** — B.E. CSE @ SLIET Punjab | NLP & ML Researcher  
-[![GitHub](https://img.shields.io/badge/GitHub-Sujal3141-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Sujal3141-181717?style=flat-square&logo=github)](https://github.com/Sujal3141)
 
 ---
 
